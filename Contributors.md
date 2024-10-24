@@ -4,4 +4,4 @@
 <!-- Wixii inta ka koreyo waxba haku qorin -->
 - [Hafsa](https://github.com/HafsaHajji)
 - [Najma](https://github.com/najmiii166)
-- [Abdimalik](https://github.com/abdimalik2004)
+- [Abdimalik](https://github.com/abdimalik2004) 
